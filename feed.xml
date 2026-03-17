@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Futurist Digest</title>
+    <link>https://mcorpening85.github.io/daily-ai-digest/</link>
+    <atom:link href="https://mcorpening85.github.io/daily-ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Your daily 10-minute briefing on the most important developments in AI -- strategic foresight, technical breakthroughs, business moves, and the big picture. Like a well-read analyst catching you up over coffee.</description>
+    <language>en-us</language>
+    <itunes:author>AI Futurist Digest</itunes:author>
+    <itunes:summary>Your daily 10-minute briefing on the most important developments in AI -- strategic foresight, technical breakthroughs, business moves, and the big picture.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Marcus Corpening</itunes:name>
+      <itunes:email>marcus.corpening@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>NVIDIA GTC, Pentagon vs Anthropic, and the Physical AI Frontier -- March 16, 2026</title>
+      <description>Today's digest: NVIDIA GTC 2026 kicks off with the Vera Rubin architecture unveil. The Pentagon-Anthropic standoff deepens as OpenAI and Google employees rally in support. Yann LeCun's new startup AMI raises a record $1.03B seed. The DOJ moves to preempt state AI laws. Plus: physical AI hitting production scale, the AI layoff boomerang, and China's OpenClaw agent platform.</description>
+      <enclosure url="https://mcorpening85.github.io/daily-ai-digest/episodes/ai-podcast-2026-03-16.mp3" length="3460224" type="audio/mpeg"/>
+      <guid>ai-podcast-2026-03-16</guid>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>210</itunes:duration>
+      <itunes:summary>NVIDIA GTC 2026 kicks off with Vera Rubin. Pentagon vs Anthropic escalates. Yann LeCun raises record $1.03B seed. Physical AI hits production scale.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
